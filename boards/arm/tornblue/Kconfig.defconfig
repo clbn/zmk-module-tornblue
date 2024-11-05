@@ -1,7 +1,7 @@
-if BOARD_TORNBLUE_LEFT
+if BOARD_TORNBLUE_RIGHT
 
 config ZMK_KEYBOARD_NAME
-    default "Tornblue Left"
+    default "TornBlue"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
